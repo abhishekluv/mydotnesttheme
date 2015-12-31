@@ -1,7 +1,7 @@
-Name: My Theme
+Name: OB Theme Machine
 Author: Abhishek Luv
-Description: Orchard Theme Machine is a flexible multi-zone theme that provides a solid foundation to build your site. It features 20 collapsible widget zones and is flexible enough to cover a wide range of layouts.
-Version: 1.8.1
+Description: OB Theme Machine is a flexible multi-zone theme that provides a solid foundation to build your site. It features 20 collapsible widget zones and is flexible enough to cover a wide range of layouts.
+Version: 1.9.1
 Tags: Awesome
-Website: http://orchardproject.net
+Website: http://orchardbeginner.com
 Zones: Header, Navigation, Featured, BeforeMain, AsideFirst, Messages, BeforeContent, Content, AfterContent, AsideSecond, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, FooterQuadFourth, Footer
